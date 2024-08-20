@@ -82,9 +82,8 @@ Naive Bayes: 94.9%
     <li><a href="https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)">Dataset Source</a></li>
 </ul>
 
-
 <h2>🤝 Contributing</h2>
-<p>Contributions, issues, and feature requests are welcome! Feel free to check the <a href="https://github.com/hellopavi/breast_cancer_prediction/issues">issues page</a> if you want to contribute.</p>
+<p>Contributions, issues, and feature requests are welcome! Feel free to check the <a href="https://github.com/hellopavi/breast_cancer_classification/issues">issues page</a> if you want to contribute.</p>
 
 <p>Don't forget to give a ⭐️ if you like this project!</p>
 
