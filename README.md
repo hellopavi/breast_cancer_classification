@@ -70,14 +70,14 @@
 LDA: 95.6%
 Logistic Regression: 96.5%
 K-Nearest Neighbors: 93.9%
-Support Vector Machine: 96.1%
+Support Vector Machine: 98.0%
 Decision Tree: 91.8%
 Random Forest: 96.4%
 Naive Bayes: 92.4%
 </code></pre>
 
 <h2>🏆 Final Model Performance</h2>
-<p>The <strong>Random Forest Classifier</strong> was selected as the final model due to its strong performance. It achieved an accuracy of <strong>96.4%</strong> on the test set.</p>
+<p>The <strong>Support Vector Machine (SVM)</strong> was selected as the final model due to its outstanding performance. It achieved an accuracy of <strong>98.0%</strong> on the test set.</p>
 
 <h2>📊 Visualizations</h2>
 <p>The project includes visualizations such as:</p>
