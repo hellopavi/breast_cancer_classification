@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Breast Cancer Classification Project</title>
-</head>
 <body>
 
 <h1 align="center">🔍 Breast Cancer Classification Project 🔬</h1>
@@ -12,7 +5,6 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3.8%2B-blue.svg" alt="Python Version">
     <img src="https://img.shields.io/badge/Framework-Scikit--Learn-yellow.svg" alt="Framework">
-    <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
 </p>
 
 <p align="center">
@@ -68,35 +60,31 @@
 <p>To ensure the robustness of the models, 10-fold cross-validation was employed. The results were visualized using a bar chart to compare the average accuracy of each model.</p>
 <pre><code>
 LDA: 95.6%
-Logistic Regression: 96.5%
-K-Nearest Neighbors: 93.9%
-Support Vector Machine: 98.0%
-Decision Tree: 91.8%
-Random Forest: 96.4%
-Naive Bayes: 92.4%
+Logistic Regression: 97.8%
+K-Nearest Neighbors: 96.4%
+Support Vector Machine: 97.5%
+Decision Tree: 92.1%
+Random Forest: 96.26%
+Naive Bayes: 94.9%
 </code></pre>
 
 <h2>🏆 Final Model Performance</h2>
-<p>The <strong>Support Vector Machine (SVM)</strong> was selected as the final model due to its outstanding performance. It achieved an accuracy of <strong>98.0%</strong> on the test set.</p>
+<p>The <strong>Support Vector Machine (SVM)</strong> was selected as the final model due to its outstanding performance. It achieved an accuracy of <strong>98.25%</strong> on the test set.</p>
 
 <h2>📊 Visualizations</h2>
 <p>The project includes visualizations such as:</p>
 <ul>
     <li>Bar chart comparing model accuracies.</li>
-    <li>Confusion matrix of the final model.</li>
-</ul>
-
+    
 <h2>🔗 References</h2>
 <ul>
     <li><a href="https://scikit-learn.org/stable/">Scikit-learn Documentation</a></li>
     <li><a href="https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)">Dataset Source</a></li>
 </ul>
 
-<h2>📝 License</h2>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
 <h2>🤝 Contributing</h2>
-<p>Contributions, issues, and feature requests are welcome! Feel free to check the <a href="https://github.com/your-username/your-repository/issues">issues page</a> if you want to contribute.</p>
+<p>Contributions, issues, and feature requests are welcome! Feel free to check the <a href="https://github.com/hellopavi/breast_cancer_prediction/issues">issues page</a> if you want to contribute.</p>
 
 <p>Don't forget to give a ⭐️ if you like this project!</p>
 
